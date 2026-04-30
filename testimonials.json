@@ -1,0 +1,21 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Josh M.",
+      "text": "This course changed my life! I got a job within a month of completing it."
+    },
+    {
+      "id": 2,
+      "name": "Thato N.",
+      "text": "The instructors are knowledgeable and supportive. Highly recommend!"
+    },
+    {
+      "id": 3,
+      "name": "Wesani B.",
+      "text": "I learned so much and feel confident entering the IT field."
+    }
+  ]
+
+}
+
